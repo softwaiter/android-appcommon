@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Puerlink_Toast">
+        <attr name="pl_toast_corner_size" format="dimension" />
+        <attr name="pl_toast_border_size" format="dimension" />
+        <attr name="pl_toast_border_color" format="color" />
+        <attr name="pl_toast_background_color" format="color" />
+        <attr name="pl_toast_text_color" format="color" />
+        <attr name="pl_toast_text_size" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="StarLevelView">
+
+        <attr name="normalImage" format="reference"></attr>
+        <attr name="selectedImage" format="reference"></attr>
+
+    </declare-styleable>
+
+</resources>
